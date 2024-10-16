@@ -7,6 +7,10 @@
 
 Este projeto contém uma implementação simples de uma lista encadeada em C, que faz parte do **Lab 06 de Sistemas Operacionais (SO)**. O código tem como objetivo criar e manipular uma estrutura de dados do tipo `celula` com três instâncias e realizar algumas operações sobre essa lista.
 
+### Imagem
+
+Ver arquivo Lab 06.png
+
 ### Funcionalidades:
 
 1. **Criação de Células:** A função `cria_celula` cria novas células da lista com valores específicos.
